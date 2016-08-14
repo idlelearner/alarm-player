@@ -1,0 +1,4 @@
+﻿02:58:30 T:246528226   DEBUG: DllBcm: Using omx system library
+02:58:30 T:246529232   DEBUG: DllOMX: Using omx system library
+02:58:30 T:246529855   DEBUG: DllAvFormat: Using libavformat system library
+02:58:30 T:246532035   DEBUG: DBus connection succeeded

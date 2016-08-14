@@ -1,0 +1,36 @@
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=qqjVwAg5fK4'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=2vjPBrBU-TM'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=KWZGAExj-es'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=31crA53Dgu0'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=t2NgsJrrAyM'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=kOkQ4T5WO9E'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=foE1mO2yM04'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=cMTAUr3Nm6I'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=tD4HCZe-tew'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=Pgmx7z49OEk'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=5GL9JoH4Sws'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=YqeW9_5kURI'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=Io0fBr1XBUA'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=ru0K8uYEZWw'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=YykjpeuMNEk'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=fRh_vgS2dFE'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=fk4BbF7B29w'`
+clear
+omxplayer -o local `youtube-dl -g 'https://www.youtube.com/watch?v=60ItHLz5WEA'`
+clear
